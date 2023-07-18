@@ -8,9 +8,10 @@
 انت بتدخل جملة فيها وصف للصورة اللي انت عايزها و بعد كده الModel يطلعلك صورة كما كان في خيالك بمجرد ضغطة زر.
 
 و تحت في امثلة عن الصور اللي بتطلع.
+
 دلوقتي تقدروا تجربوه و تطلقوا العنان لخيالكم. استمتعوا
 
-
+Link: 
 ==========================================
 
 "I would like to present MY graduation project, which is closest to my heart, and this project had many challenges and very difficult difficulties compared to any project I have worked on before.
@@ -18,8 +19,10 @@ Our role is to convert any imagination in the reader's, author's, and artist's m
 You enter a sentence that describes the image you want, and then the model will show you the image as you imagined it with a click of a button."
 
 Examples are below!
+
 Now you can try it out and unleash your imagination. Enjoy!
 
+Link: 
 ==========================================
 
 ![](Images/image(36).png)
