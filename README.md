@@ -15,9 +15,10 @@ Link: www.qrcodedynamic.com/7p0yvvnggn
 
 ==========================================
 
-"I would like to present MY graduation project, which is closest to my heart, and this project had many challenges and very difficult difficulties compared to any project I have worked on before.
+I would like to present my graduation project, which is closest to my heart, and this project had many challenges and very difficult difficulties compared to any project I have worked on before.
+
 Our role is to convert any imagination in the reader's, author's, and artist's mind into an image that the eye can see. The imagination can be in the form of: natural scenery, room designs, facial features, and many other things.
-You enter a sentence that describes the image you want, and then the model will show you the image as you imagined it with a click of a button."
+You enter a sentence that describes the image you want, and then the model will show you the image as you imagined it with a click of a button.
 
 Examples are below!
 
