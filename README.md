@@ -11,7 +11,8 @@
 
 دلوقتي تقدروا تجربوه و تطلقوا العنان لخيالكم. استمتعوا
 
-Link: 
+Link: www.qrcodedynamic.com/7p0yvvnggn
+
 ==========================================
 
 "I would like to present MY graduation project, which is closest to my heart, and this project had many challenges and very difficult difficulties compared to any project I have worked on before.
@@ -22,7 +23,8 @@ Examples are below!
 
 Now you can try it out and unleash your imagination. Enjoy!
 
-Link: 
+Link: www.qrcodedynamic.com/7p0yvvnggn
+
 ==========================================
 
 ![](Images/image(36).png)
